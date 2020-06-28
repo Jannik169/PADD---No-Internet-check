@@ -3,7 +3,8 @@ When you launch the offical PADD for PI-Hole it requests google.com to check if 
 
 I just changed some lines of code, the official project is under https://github.com/jpmck/PADD !
 
-# How should I install that (This is a slightly changed version of the official one)?
+# How should I install that 
+(This is a slightly changed version of the official one)?
 
     Get a copy of PADD--No-Internet-check by running:
 
